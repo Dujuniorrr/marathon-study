@@ -9,3 +9,5 @@ int main(){
    printf("%i", b);
    return 0;
 }
+
+//time 00:04:09.33
